@@ -1,5 +1,8 @@
-nltk==3.8.2
-numpy==2.1.1
-pandas==2.2.2
-scikit_learn==1.4.0
-streamlit==1.37.1
+pandas==2.0.1
+numpy==1.24.3
+nltk==3.7
+scikit-learn==1.1.2
+streamlit==1.16.0
+setuptools>=67.0.0
+wheel
+altair
