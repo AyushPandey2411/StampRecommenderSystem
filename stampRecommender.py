@@ -7,7 +7,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import streamlit as st
 
 # Download the required NLTK data
-nltk.download('punkt')
+nltk.download('punkt_tab')
 
 # Load the dataset with caching to improve performance
 @st.cache_data
