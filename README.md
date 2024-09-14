@@ -19,12 +19,3 @@ This application is a Stamp/Product Search and Recommendation System built using
 - **Pandas**: For data manipulation.
 - **NumPy**: For numerical operations.
 
-## Installation
-
-To set up the project, follow these steps:
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
